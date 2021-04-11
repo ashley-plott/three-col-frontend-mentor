@@ -87,7 +87,7 @@ section.luxury {
         max-width: 90vw;
     }
     section > .content > p {
-        margin: 30px;
+        margin-bottom: 30px;
     }
 }
 
