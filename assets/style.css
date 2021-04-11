@@ -86,6 +86,9 @@ section.luxury {
         display: block;
         max-width: 90vw;
     }
+    section > .content > p {
+        margin: 30px;
+    }
 }
 
 /* Screen larger than 600px? 2 column */
@@ -134,6 +137,6 @@ section.luxury {
         height: 100vh;
     }
     section > .content > p {
-        margin-bottom: 30px;
+        margin-bottom: 100px;
     }
 }
